@@ -28,4 +28,8 @@ flutter run
 ## Dokumentation
 
 Der bestätigte Produktplan liegt unter [`docs/PRODUCT_PLAN.md`](docs/PRODUCT_PLAN.md).
+
+## Architektur
+
+![FridgeQuest-Architektur](docs/architecture/Download.svg)
 # FridgeQuest
