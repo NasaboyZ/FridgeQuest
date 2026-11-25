@@ -1,6 +1,6 @@
 # FridgeQuest
 
-![FridgeQuest System Architecture](Download.png)
+![FridgeQuest System Architecture](docs/architecture/Download.png)
 
 Your food has a story.
 
