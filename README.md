@@ -1,5 +1,7 @@
 # FridgeQuest
 
+![FridgeQuest System Architecture](Download.png)
+
 Your food has a story.
 
 FridgeQuest ist eine mobile FoodTech-Anwendung, die Lebensmittelbestand,
@@ -29,7 +31,4 @@ flutter run
 
 Der bestätigte Produktplan liegt unter [`docs/PRODUCT_PLAN.md`](docs/PRODUCT_PLAN.md).
 
-## Architektur
-
-![FridgeQuest-Architektur](docs/architecture/Download.svg)
 # FridgeQuest
